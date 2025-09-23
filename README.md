@@ -88,7 +88,7 @@ o AmazonEC2FullAccess
 
 ---
 ## 📎 Links Importantes
-- 🔗 **Portfólio:** [https://seuusuario.github.io/portfolio](https://seuusuario.github.io/portfolio)  
+- 🔗 **Portfólio:**  https://andrey-silva-data.github.io/MeuPortf-lio-AndreySilva/
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/techprofessional-AndreySilva/ 
 - 🔗 **GitHub:** https://github.com/Andrey-Silva-Data
 ---
