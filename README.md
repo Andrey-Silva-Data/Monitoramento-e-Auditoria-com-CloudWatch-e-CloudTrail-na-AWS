@@ -58,26 +58,32 @@ o AmazonEC2FullAccess
 
 ## 📊 Resultados
 
+**1. Criação da instância e do Alarme no Cloudwatch para Auditoria e Monitoramento**
 ![alt text](imagens/1.jpg)
 
 ---
 
+**2. Notificação no e-mail via SNS**
 ![alt text](imagens/2.jpg)
 
 ---
 
+**3. Configuração do CloudTrail para Monitoramento**
 ![alt text](imagens/3.jpg)
 
 ---
 
+**4. Criação do sistema de aviso por e-mail com AWS SNS**
 ![alt text](imagens/4.jpg)
 
 ---
 
+**5. Criação da instância EC2**
 ![alt text](imagens/5.jpg)
 
 ---
 
+**6. Criação do Grupo de Segurança**
 ![alt text](imagens/6.jpg)
 
 ---
